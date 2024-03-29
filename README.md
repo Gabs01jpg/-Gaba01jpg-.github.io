@@ -1,4 +1,4 @@
 # -Gaba01jpg-.github.io
 Gabriel dos Santos Rodrigues - 
-Designer Gráfico - 
-https://www.behance.net/gabrielrodrigu235
+Dev Front End - 
+https://projeto-loja-de-livros-do-tolkien.vercel.app/
